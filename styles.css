@@ -1,24 +1,28 @@
 h1 {
-    background-color: orangered;
+    background-color: palevioletred;
     text-align: center;
 }
 
 h2 {
-    background-color: orangered;
+    background-color: palevioletred;
     text-align: center;
 }
 
 h3 {
-    background-color: orangered;
+    background-color: palevioletred;
     text-align: center;
 }
 
 p {
-    background-color: orangered;
+    background-color: palevioletred;
 }
 
+
+
+
+
 li {
-    background-color: orangered;
+    background-color: palevioletred;
 }
 
 body {
@@ -30,6 +34,11 @@ body {
 
 }
 .main-text{
-    background: crimson;
-    color: wheat;
+    background: palevioletred;
+    color: darkblue;
+}
+
+li:nth-child(3){
+
+    color: darkseagreen;
 }

@@ -12,6 +12,19 @@ body {
 
 }
 .main-text{
-    background: crimson;
-    color: wheat;
+    background: tan;
+    color: black;
+}
+
+li:first-child(3){
+
+    color: green;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:visited {
+    color: pink;
 }
