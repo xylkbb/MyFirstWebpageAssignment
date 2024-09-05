@@ -42,3 +42,21 @@ li:nth-child(3){
 
     color: darkseagreen;
 }
+
+.cool{
+    color:red;
+}
+
+#second{
+    color:blue;
+}
+
+
+.dark{
+    color: purple;
+    background-color: orange;
+}
+
+#first{
+    background-color: beige;
+}
