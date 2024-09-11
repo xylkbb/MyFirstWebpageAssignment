@@ -5,26 +5,31 @@ p {
 
 body {
     background-color: blanchedalmond;
+    text-align: center;
 }
 
 #schedule{
     background-color: beige;
+    text-align: center;
 
 }
 .main-text{
     background: tan;
     color: black;
+    text-align: center;
 }
 
 li:first-child(3){
-
+    text-align: center;
     color: green;
 }
 
 a:hover {
     color: pink;
+    text-align: center;
 }
 
 a:visited {
     color: pink;
+    text-align: center;
 }

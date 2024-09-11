@@ -27,28 +27,34 @@ li {
 
 body {
     background-color: blanchedalmond;
+    text-align: center;
 }
 
 #schedule{
     background-color: beige;
+    text-align: center;
 
 }
 .main-text{
     background: palevioletred;
     color: darkblue;
+    text-align: center;
 }
 
 li:nth-child(3){
 
     color: darkseagreen;
+    text-align: center;
 }
 
 .cool{
     color:red;
+    text-align: center;
 }
 
 #second{
     color:blue;
+    text-align: center;
 }
 
 
@@ -59,4 +65,5 @@ li:nth-child(3){
 
 #first{
     background-color: beige;
+    text-align: center;
 }
